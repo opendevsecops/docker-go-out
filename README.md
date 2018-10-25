@@ -3,6 +3,7 @@
 [![Docker Automated](https://img.shields.io/docker/automated/opendevsecops/go-out.svg)](https://hub.docker.com/r/opendevsecops/go-out/)
 [![Docker Build](https://img.shields.io/docker/build/opendevsecops/go-out.svg)](https://hub.docker.com/r/opendevsecops/go-out/)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/03cb519d747a4cf2af322bbd8e1d18ce)](https://www.codacy.com/app/OpenDevSecOps/docker-go-out?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=opendevsecops/docker-go-out&amp;utm_campaign=Badge_Grade)
+[![Follow on Twitter](https://img.shields.io/twitter/follow/opendevsecops.svg?logo=twitter)](https://twitter.com/opendevsecops)
 
 # Getting Started
 
